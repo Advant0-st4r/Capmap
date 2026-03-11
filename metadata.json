@@ -1,0 +1,7 @@
+{
+  "name": "CapMap AI",
+  "description": "Enterprise-grade Business Capability Mapping with AI-powered metrics, visualizations, and analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
